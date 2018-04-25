@@ -1,0 +1,9 @@
+{
+  "name": "javascript-examples",
+  "version": "1.0.0",
+  "description": "Javascript Notes and Examples",
+  "main": "index.js",
+  "repository": "https://github.com/codecitrus/javascript-examples.git",
+  "author": "codecitrus",
+  "license": "MIT"
+}
